@@ -1,0 +1,1 @@
+[{"id": "66202024", "name": "Abigail Animah Owusu", "year": "2024", "major": "Mechanical Engineering"}, {"id": "40602024", "name": "Jochy Afua Basil", "year": "2024", "major": "Computer Science "}]

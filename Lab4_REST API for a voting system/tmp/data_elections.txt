@@ -1,0 +1,61 @@
+[
+  {
+    "id": "asc123",
+    "name": "Ashesi Student Council",
+    "candidates": [
+      {
+        "id": "12342024",
+        "name": "Keziah Asare",
+        "position": "President",
+        "votes": 0
+      },
+      {
+        "id": "4562024",
+        "name": "Wofa Yamoah",
+        "position": "President",
+        "votes": 0
+      }
+    ],
+    "voters": []
+  },
+  {
+    "id": "pal123",
+    "name": "Ashesi Parliament",
+    "candidates": [
+      {
+        "id": "12092024",
+        "name": "sandra Nettey",
+        "position": "Speaker of Parliament",
+        "vote_count": 0
+      },
+      {
+        "id": "13782024",
+        "name": "Alberta Owusu",
+        "position": "Speaker of Parliament",
+        "vote_count": 0
+      }
+    ],
+    "voters": []
+  },
+  {
+    "id": "jec123",
+    "name": "Judical Executive Council",
+    "candidates": [
+      {
+        "id": "89542024",
+        "name": "Nice Caile",
+        "position": "President",
+        "vote_count": 1
+      },
+      {
+        "id": "90102025",
+        "name": "Maxine Brenya",
+        "position": "President",
+        "vote_count": 0
+      }
+    ],
+    "voters": [
+      "66202024"
+    ]
+  }
+]
